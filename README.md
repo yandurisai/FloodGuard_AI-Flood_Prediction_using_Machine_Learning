@@ -1,4 +1,4 @@
-# 🌊 FloodGuard AI — Flood Prediction using Machine Learning
+# 🌊 Rising Waters: A Machine Learning Approach To Flood Prediction
 
 A complete end-to-end Machine Learning project for flood prediction with a Flask web dashboard.
 
